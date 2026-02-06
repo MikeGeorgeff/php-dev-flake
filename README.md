@@ -7,7 +7,9 @@ Shared Nix flake that provides PHP development shells. Reference this flake to g
 | Shell   | PHP Version | Included Extensions |
 | ------- | ----------- | ------------------- |
 | `php82` | 8.2         | Default             |
+| `php83` | 8.3         | Default             |
 | `php84` | 8.4         | Default             |
+| `php85` | 8.5         | Default             |
 
 Each shell includes PHP and Composer.
 
